@@ -34,7 +34,7 @@ I'm passionate about problem-solving, software engineering, machine learning, an
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,js" />
 </p>
 
 ### Web Development
