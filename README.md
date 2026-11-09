@@ -1,6 +1,6 @@
 # Hi, I'm Roshan Shaikh 👋
 
-<h3 align="center">Software Engineer | DSA Enthusiast | AI/ML & Full-Stack Developer</h3>
+<h3 align="center">Software Engineer | DSA - C++ | AI/ML & Full-Stack Developer</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Building+Real-World+Software;Solving+DSA+Problems+Consistently;Exploring+AI%2FML+and+Full+Stack;Learning+Every+Day%2C+Building+Every+Day" alt="Typing SVG" />
